@@ -1,0 +1,18 @@
+[style]
+based_on_style = google
+column_limit = 100  # 设置每行的最大字符数
+
+# 缩进相关选项
+indent_width = 4    # 设置缩进宽度
+use_tabs = false    # 使用空格而不是制表符进行缩进
+continuation_indent_width = 4  # 连续行的缩进宽度
+
+# 控制括号和分隔符的位置
+split_before_expression_after_opening_paren = true
+split_before_dict_set_generator = true
+split_complex_comprehension = true
+
+# 在函数定义和调用中添加额外的空格
+spaces_before_comment = 2
+space_between_ending_comma_and_closing_bracket = true
+

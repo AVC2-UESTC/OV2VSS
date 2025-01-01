@@ -1,0 +1,12 @@
+matplotlib
+numpy
+terminaltables
+tqdm
+IPython
+scipy
+einops
+attr
+fvcore
+ftfy
+regex
+timm
