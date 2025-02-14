@@ -1,5 +1,5 @@
 # OV2VSS
-Official PyTorch implementation of Towards Open-Vocabulary Video Semantic Segmentation[https://arxiv.org/pdf/2412.09329]
+Official PyTorch implementation of [Towards Open-Vocabulary Video Semantic Segmentation](https://arxiv.org/pdf/2412.09329)
 
 ## Abstract
 Semantic segmentation in videos has been a focal point of recent research. However, existing models encounter challenges when faced with unfamiliar categories. To address this, we introduce the Open Vocabulary Video Semantic Segmentation (OV-VSS) task, designed to accurately segment every pixel across a wide range of open-vocabulary categories, including those that are novel or previously unexplored. To enhance OV-VSS performance, we propose a robust baseline, OV2VSS, which integrates a spatial-temporal fusion module, allowing the model to utilize temporal relationships across consecutive frames. Additionally, we incorporate a random frame enhancement module, broadening the model’s understanding of semantic context throughout the entire video sequence. Our approach also includes video text encoding, which strengthens the model's capability to interpret textual information within the video context.
